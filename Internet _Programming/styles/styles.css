@@ -8,3 +8,7 @@ img
 	height: 250px;
 }
 
+a
+{
+	text-decoration: none;
+}
